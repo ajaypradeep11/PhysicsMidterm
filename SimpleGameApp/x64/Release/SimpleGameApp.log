@@ -1,0 +1,79 @@
+﻿  c3rdPersonCamera.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\cameras\c3rdPersonCamera.cpp(120,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\cameras\c3rdPersonCamera.cpp(127,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  cBuffer.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\cBuffer.cpp(38,36): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\cBuffer.cpp(39,38): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(129,1): warning C4312: 'type cast': conversion from 'int' to 'GLvoid *' of greater size
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(103): message : while compiling class template member function 'bool nGraphics::cVertexDescT<nGraphics::cVertex>::BindBuffers(nGraphics::sBufferIds &)'
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\cBuffer.cpp(46): message : see reference to function template instantiation 'bool nGraphics::cVertexDescT<nGraphics::cVertex>::BindBuffers(nGraphics::sBufferIds &)' being compiled
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(181): message : see reference to class template instantiation 'nGraphics::cVertexDescT<nGraphics::cVertex>' being compiled
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(76,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(72): message : while compiling class template member function 'bool nGraphics::cVertexDescT<nGraphics::cVertex>::GenerateBuffers(nGraphics::sBufferIds &,std::vector<nGraphics::cVertex,std::allocator<nGraphics::cVertex>> &,std::vector<unsigned int,std::allocator<unsigned int>> &,GLenum)'
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\cBuffer.cpp(29): message : see reference to function template instantiation 'bool nGraphics::cVertexDescT<nGraphics::cVertex>::GenerateBuffers(nGraphics::sBufferIds &,std::vector<nGraphics::cVertex,std::allocator<nGraphics::cVertex>> &,std::vector<unsigned int,std::allocator<unsigned int>> &,GLenum)' being compiled
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(88,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(96,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  cCamera.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\cCamera.cpp(101,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\cCamera.cpp(102,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  cGraphicsComponent.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  cMesh.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  cMeshManager.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  cTexture.cpp
+  cTextureManager.cpp
+  cVertex.cpp
+  gl_errors.cpp
+  graphics.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  cImageFile.cpp
+  LoadCubeMapFromFiles.cpp
+  LoadSingleMeshFromFile.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\load\LoadSingleMeshFromFile.cpp(48,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\load\LoadSingleMeshFromFile.cpp(49,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\load\LoadSingleMeshFromFile.cpp(181,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\graphics\load\LoadSingleMeshFromFile.cpp(211,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  LoadTextureFromFile.cpp
+  cLitShader.cpp
+  cSimpleShader.cpp
+  LoadShader.cpp
+  cInputManager.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  cKey.cpp
+  Compiling...
+  input.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\include\graphics\cBuffer.h(174,41): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Midterm.cpp
+  cParticleContact.cpp
+  cParticleContactResolver.cpp
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\physics\cParticleContactResolver.cpp(28,39): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\src\physics\cParticleContactResolver.cpp(36,18): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  cParticleParticleContact.cpp
+  cProjectile.cpp
+  fireworks.cpp
+  cParticle.cpp
+  cParticleForceRegistry.cpp
+  cParticleWorld.cpp
+  particle_constraints.cpp
+  cParticlePlaneContact.cpp
+  particle_force_generators.cpp
+  random_helpers.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1753 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  SimpleGameApp.vcxproj -> C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\x64\Release\SimpleGameApp.exe
+          1 file(s) copied.
+          1 file(s) copied.
+  '"C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\7z.exe"' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\SimpleGameApp.vcxproj(329,5): error MSB3073: The command ""C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\7z.exe" a "C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\Dist.zip" "C:\Users\mprad\Downloads\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration (1)\SimpleGameApp_EOC_WithMidtermPhysicsAndConfiguration\SimpleGameApp\Dist"" exited with code 9009.

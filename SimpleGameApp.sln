@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleGameApp", "SimpleGameApp\SimpleGameApp.vcxproj", "{C8755116-F639-404C-8C8A-98977A309A09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shaders", "Shaders", "{4DCD13E0-500C-43B7-A7A0-CC8C917A266E}"
+	ProjectSection(SolutionItems) = preProject
+		Assets\shaders\LitShader.frag = Assets\shaders\LitShader.frag
+		Assets\shaders\LitShader.vert = Assets\shaders\LitShader.vert
+		Assets\shaders\SimpleShader.frag = Assets\shaders\SimpleShader.frag
+		Assets\shaders\SimpleShader.vert = Assets\shaders\SimpleShader.vert
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8755116-F639-404C-8C8A-98977A309A09}.Debug|x64.ActiveCfg = Debug|x64
+		{C8755116-F639-404C-8C8A-98977A309A09}.Debug|x64.Build.0 = Debug|x64
+		{C8755116-F639-404C-8C8A-98977A309A09}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8755116-F639-404C-8C8A-98977A309A09}.Debug|x86.Build.0 = Debug|Win32
+		{C8755116-F639-404C-8C8A-98977A309A09}.Release|x64.ActiveCfg = Release|x64
+		{C8755116-F639-404C-8C8A-98977A309A09}.Release|x64.Build.0 = Release|x64
+		{C8755116-F639-404C-8C8A-98977A309A09}.Release|x86.ActiveCfg = Release|Win32
+		{C8755116-F639-404C-8C8A-98977A309A09}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C4403E8-71FA-4976-B90F-BC670A7EC940}
+	EndGlobalSection
+EndGlobal
